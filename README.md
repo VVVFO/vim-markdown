@@ -1,5 +1,9 @@
 # Vim Markdown
 
+This [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown/) except with the left angle bracket / less than sign `<` breaking the rest of the file issue ([#104](https://github.com/plasticboy/vim-markdown/issues/104)) fixed.
+
+***
+
 [![Build Status](https://travis-ci.org/plasticboy/vim-markdown.svg)](https://travis-ci.org/plasticboy/vim-markdown)
 
 Syntax highlighting, matching rules and mappings for [the original Markdown](http://daringfireball.net/projects/markdown/) and extensions.
