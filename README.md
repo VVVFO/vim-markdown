@@ -1,6 +1,9 @@
 # Vim Markdown
 
-This is [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown/) except with the left angle bracket / less than sign `<` breaking the rest of the file issue ([#104](https://github.com/plasticboy/vim-markdown/issues/104)) fixed.
+This is [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown/) except with:
+
+- The left angle bracket / less than sign `<` breaking the rest of the file issue ([#104](https://github.com/plasticboy/vim-markdown/issues/104)) fixed.
+- The inline URL infinite highlight issue ([#419](https://github.com/plasticboy/vim-markdown/issues/419)) fixed.
 
 ***
 
